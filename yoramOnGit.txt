@@ -1,0 +1,2 @@
+I am yoram created on git txt.
+my name is yoramOnGit.txt
